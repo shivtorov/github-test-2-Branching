@@ -1,4 +1,4 @@
-# Master Branch
+# Main Branches
 
 This central repo holds two main branches with an infinite lifetime:
 * `master`
