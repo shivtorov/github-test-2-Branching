@@ -3,6 +3,7 @@
 version 0.2 - new start
 
 _working on feature-A_. It will be included in release 0.3
+**some more** changes towards the feature_A
 
 this is the place for me to test different branching strategies and associated GitHub functionality
 
