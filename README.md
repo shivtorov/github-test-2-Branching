@@ -1,5 +1,7 @@
 # github-test-2-Branching
 
+release-0.3
+
 version 0.2 - new start
 
 _working on feature-A_. It will be included in release 0.3
